@@ -1,0 +1,31 @@
+body{
+	background-color:pink;
+	}
+h1{
+	color:maroon;
+	margin-left:40px;
+img{border:2px;/home/Sem6B10/Desktop/index.png;}
+	
+word-spacing:5px;letter-spacing:5px;
+direction:center;
+text-decoration:underline;
+text-decoration:line-through;
+text-decoration:overline;
+text-decoration:blink;
+text-transform:capitalize;
+text-transform:lowercase;
+text-transform:uppercase;
+text-shadow:10px 10px 10px blue;
+ 
+
+
+
+
+}
+
+
+p.v{color:blue; font-size:20px;font-weight:bold;}
+p.l{color:blue; font-size:20px;font-weight:900;}
+p.x{word-spacing:5px;letter-spacing:5px;}
+p.z{text-indent:100cm;}
+
